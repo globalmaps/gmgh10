@@ -9,4 +9,4 @@ Credit: "Global Map of Ghana © ISCGM/Survey Department of Ghana"
 
 Contact: Survey Department of Ghana.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/ghana.png)
+E-mail: ![email](email.png)
